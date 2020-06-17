@@ -9,6 +9,8 @@ keywords:
 author: Jeffrey Wu
 language: en
 timezone: ''
+icp_domain: 'http://www.beian.miit.gov.cn/'
+icp_code: '粤ICP备19134433号'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
